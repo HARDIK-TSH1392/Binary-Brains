@@ -1,0 +1,178 @@
+body {
+            background-color: rgb(35, 37, 38);
+            background-image: url("https://img.freepik.com/premium-photo/wooden-background_811396-12561.jpg?w=740");
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin: auto;
+            
+}
+#head{
+    margin: auto;
+    padding: 200px;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    width: 1200px;
+    height: 200px;
+    font-size: 73px;
+    color: rgb(242, 247, 247);
+}
+
+.foodie{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+
+
+
+
+}
+#img1:hover{
+    border-radius: 70px;
+    border-color: rgb(72, 65, 65);
+    border-style: solid ;
+    border-width: 10px;
+    height: 600px;
+    width: 600px;
+    
+}
+#img2:hover {
+    border-radius: 70px;
+    border-color: rgb(72, 65, 65);
+    border-style: solid;
+    border-width: 10px;
+    height: 600px;
+    width: 600px;
+}
+#img3:hover {
+    border-radius: 70px;
+    border-color: rgb(72, 65, 65);
+    border-style: solid;
+    border-width: 10px;
+    height: 600px;
+    width: 600px;
+}
+#img4:hover {
+    border-radius: 70px;
+    border-color: rgb(72, 65, 65);
+    border-style: solid;
+    border-width: 10px;
+    height: 600px;
+    width: 600px;
+}
+#img5:hover {
+    border-radius: 70px;
+    border-color: rgb(72, 65, 65);
+    border-style: solid;
+    border-width: 10px;
+    height: 600px;
+    width: 600px;
+}
+#img6:hover {
+    border-radius: 70px;
+    border-color: rgb(72, 65, 65);
+    border-style: solid;
+    border-width: 10px;
+    height: 600px;
+    width: 600px;
+}
+#american{
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+#ameri{
+    font-size: 50px;
+    margin: 30px;
+    padding: 30px;
+    color: aliceblue;
+}
+#ind{
+    font-size: 50px;
+    margin:30px;
+    padding: 30px;
+    color: aliceblue;
+    
+}
+#italy {
+    font-size: 50px;
+    margin: 30px;
+    padding: 30px;
+    color: aliceblue;
+
+}
+#china {
+    font-size: 50px;
+    
+    margin: 30px;
+    padding: 30px;
+    color: aliceblue;
+
+}
+#sou {
+    font-size: 50px;
+    margin: 30px;
+    padding: 30px;
+    color: aliceblue;
+
+}
+#germany {
+    font-size: 50px;
+    margin: 30px;
+    padding: 30px;
+    color: aliceblue;
+
+}
+/*  
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 80px;
+    width: 100vw;
+
+}
+
+header nav div {
+    padding-right: 638px;
+}
+
+nav {
+    display: flex;
+}
+
+nav ul {
+    height: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0 15px;
+    color: black;
+    font-size: 28px;
+    font-family: 'cursive';
+}
+
+nav ul li a {
+    padding-right: 35px;
+}
+
+div.restaurant h1 {
+    height: 100px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    font-size: 55px;
+}
+ */ 
