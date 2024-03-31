@@ -44,6 +44,46 @@ body {
     align-items: center;
     gap: 3rem;
 }
+#restaurants-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.restaurant-item {
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.restaurant-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.restaurant-details {
+    flex-grow: 1;
+    padding-left: 20px;
+}
+
+.restaurant-name {
+    font-size: 1.8rem;
+    color: var(--dark--1);
+    margin-bottom: 5px;
+}
+
+.restaurant-rating {
+    font-size: 1.4rem;
+    color: var(--light--1);
+}
 
 .copyright {
     color: var(--light--1);
